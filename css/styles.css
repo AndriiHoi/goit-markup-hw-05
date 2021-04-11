@@ -737,3 +737,9 @@ footer {
   background: var(--white-color);
   border-radius: 50%;
 }
+
+.modal .icon {
+  position: absolute;
+  transform: translate(-50%, -50%);
+  fill: #000000;
+}
