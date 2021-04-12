@@ -724,6 +724,7 @@ footer {
   left: 0;
   opacity: 1;
   transition: opacite var(--timing-function);
+  z-index: 1;
 }
 
 .modal {
