@@ -248,6 +248,8 @@ img {
 
 .section.hero .button:hover,
 .section.hero .button:focus {
+    background-color: #188ce8;
+
 }
 
 h1,
