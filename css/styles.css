@@ -8,7 +8,7 @@
   --inf-word-color: rgba(255, 255, 255, 0.6);
   --grid-item: 1;
   --icons-color: #afb1b8;
-  --timing-function: 2500ms cubic-bezier(0.4, 0, 0.2, 1);
+  --timing-function: 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 html {
