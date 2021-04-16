@@ -725,7 +725,7 @@ footer {
   top: 0;
   left: 0;
   opacity: 1;
-  transition: opacite var(--timing-function);
+  transform: opacite var(--timing-function);
   z-index: 1;
   transition-duration: 250ms;
 }
