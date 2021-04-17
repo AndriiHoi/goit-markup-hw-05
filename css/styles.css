@@ -431,11 +431,12 @@ p {
   width: 20px;
   height: 20px;
   fill: var(--icons-color);
-  transition: color var(--timing-function);
+  transition: fill var(--timing-function);
 }
 
 .social-icons .icon.white {
   fill: #ffffff;
+    transition: fill var(--timing-function);
 }
 
 .social-icons-link:hover .icon,
