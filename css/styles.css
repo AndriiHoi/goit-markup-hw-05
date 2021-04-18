@@ -524,8 +524,7 @@ p {
   font-size: 16px;
   line-height: 1.63;
   text-decoration: none;
-  transition: background-color var(--timing-function), box-shadow var(--timing-function);
-  transition: color var(--timing-function);
+  transition: background-color var(--timing-function), box-shadow var(--timing-function), color var(--timing-function);
 }
 
 .button .btn:hover,
@@ -726,7 +725,7 @@ footer {
   top: 0;
   left: 0;
   opacity: 1;
-  transform: opacite var(--timing-function);
+  transform: opacity var(--timing-function);
   z-index: 1;
   transition-duration: 250ms;
 }
